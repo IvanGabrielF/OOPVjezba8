@@ -1,0 +1,3 @@
+Baca se FileNotFoundException.
+FileNotFoundException, podklasa IOException.
+Baca se IOException pri pokušaju pisanja.
